@@ -104,7 +104,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         padding:
                             EdgeInsetsDirectional.fromSTEB(0.0, 15.0, 0.0, 0.0),
                         child: Text(
-                          'Welcome',
+                          'You\'re Welcome.',
                           style: FlutterFlowTheme.of(context).displaySmall,
                         ),
                       ),
